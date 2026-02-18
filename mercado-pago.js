@@ -1,2 +1,3 @@
-const u = "teste"
-console.log(u);
+const m = "mercado pago"
+const p = "pagamento"
+console.log(m, p);
