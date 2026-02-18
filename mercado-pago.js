@@ -1,3 +1,4 @@
 const u = "teste"
 const d = 'devedor'
-console.log(u);
+const p = "pagamento"
+console.log(m, p);
